@@ -4,7 +4,7 @@
  First year undergrad at VIT Chennai. 
  WebDEV enthusiast..
  
- Crypto, Blockchain and NFT enthusiast..
+ Loves Crypto, Blockchain and NFTs
  
  Python Programming :) 
 
