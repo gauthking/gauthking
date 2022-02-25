@@ -1,6 +1,5 @@
-### HEY THERE FOLKS 👋
-## Gautham Here! 
-
+### HEY THERE FOLKS, GAUTHAM HERE! 👋
+**WELCOME TO MY GITHUB PROFILE**
 ![Alt Text](dino.gif)
 
  First year undergrad at VIT Chennai. 
