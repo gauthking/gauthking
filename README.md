@@ -1,6 +1,8 @@
 ### HEY THERE FOLKS 👋
-
 ## Gautham Here! 
+
+![Alt Text](dino.gif)
+
  First year undergrad at VIT Chennai. 
  WebDEV enthusiast..
  
