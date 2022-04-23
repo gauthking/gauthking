@@ -2,13 +2,11 @@
 **WELCOME TO MY GITHUB PROFILE**
 ![Alt Text](dino.gif)
 
- First year undergrad at VIT Chennai. 
- WebDEV enthusiast..
+First year undergrad at VIT Chennai. 
+Web-Dev Enthusiast..
+Loves Crypto, Blockchain and NFTs
  
- Loves Crypto, Blockchain and NFTs
- 
- Python Programming :) 
-
+Python Programming :) 
 LEarniNG new ThingS evERyDaY!
 
 **SOCIALS**
@@ -18,9 +16,12 @@ LEarniNG new ThingS evERyDaY!
 </a>
 
 <a href="https://www.instagram.com/_thegauthamkrishhna._/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Twitter" title="Instagram" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Instagram" title="Instagram" width="25" height="25" />
 </a>
 
+<a href="https://www..linkedin.com/in/cp-gautham-krishna-580450227">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="LinkedIn" width="25" height="25" />
+</a>
 
 
 **SKILLS**
