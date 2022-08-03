@@ -37,4 +37,4 @@ LEarniNG new ThingS evERyDaY!
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+ <img src = "https://financialit.net/sites/default/files/moralis.png" height = "30" width =  "100">
