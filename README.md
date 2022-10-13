@@ -2,11 +2,13 @@
 **WELCOME TO MY GITHUB PROFILE**
 ![Alt Text](dino.gif)
 
-First year undergrad at VIT Chennai. 
-Web-Dev Enthusiast..
-Loves Crypto, Blockchain and NFTs
- 
-Python Programming :) 
+Second Year - VIT Chennai
+
+Full Stack Web Developer |
+Blockchain Developer |
+Web3-dApp Dev |
+Smart Contracts
+
 LEarniNG new ThingS evERyDaY!
 
 **SOCIALS**
