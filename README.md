@@ -13,7 +13,7 @@ LEarniNG new ThingS evERyDaY!
 
 **SOCIALS**
 
-<a href="https://twitter.com/pointlessduhh">
+<a href="https://twitter.com/gauthkingETH">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
 </a>
 
