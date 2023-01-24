@@ -9,7 +9,7 @@ Blockchain Developer |
 Web3-dApp Dev |
 Smart Contracts
 
-LEarniNG new ThingS evERyDaY!
+Learning New Things Everyday!
 
 **SOCIALS**
 
