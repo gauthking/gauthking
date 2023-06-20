@@ -15,6 +15,8 @@
 [![Instagram](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png)](https://www.instagram.com/_thegauthamkrishhna._/)
 [![LinkedIn](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png)](https://www.linkedin.com/in/cp-gautham-krishna-580450227/)
 
+## BLOG ✍️
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@appskans2017)
 
 ## TOOLS I'VE WORKED WITH ⚙️
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,ts,solidity,cpp,c,python,mongodb,nodejs,prisma,mysql,figma,remix,pytorch,java,fastapi,flask,aws,arduino,bootstrap)](https://skillicons.dev)
@@ -22,3 +24,5 @@
 
 ## STATS ⭐
 ![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthking&show_icons=true&theme=radical)
+
+![Code GIF](https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/giphy.webp)
