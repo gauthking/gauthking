@@ -13,7 +13,7 @@
 ## SOCIALS 📲
 [![Twitter](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png)](https://twitter.com/gauthkingETH)
 [![Instagram](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png)](https://www.instagram.com/_thegauthamkrishhna._/)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png)](https://www.linkedin.com/in/cp-gautham-krishna-580450227)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png)](https://www.linkedin.com/in/cp-gautham-krishna-580450227/)
 
 
 ## TOOLS I'VE WORKED WITH ⚙️
