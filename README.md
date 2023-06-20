@@ -1,34 +1,24 @@
-# Gautham Krishna
+# HEY THERE FOLKS, GAUTHAM HERE! 👋
 
 ![Alt Text](dino.gif)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=This+is+the+place+where+I+dump+my+ideas!)](https://git.io/typing-svg)
 
-Hey there, folks! Gautham here! 👋 This is the place where I dump my projects, lol.
+🎓 Third Year (ig) - VIT Chennai
 
-- Third Year (ig) - VIT Chennai
-- Full Stack Web Developer
-- Blockchain Developer
-- Web3-dApp Dev
-- Smart Contracts
-- Learning New Things Everyday!
+🧑‍💻 Full Stack Web Developer | Blockchain Developer | Web3-dApp Dev | Smart Contracts
 
-## Socials
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=21&pause=1000&color=4363F7&width=435&lines=Learning+New+Things+Everyday!)](https://git.io/typing-svg)
 
+## SOCIALS 📲
 [![Twitter](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png)](https://twitter.com/gauthkingETH)
 [![Instagram](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png)](https://www.instagram.com/_thegauthamkrishhna._/)
 [![LinkedIn](https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png)](https://www.linkedin.com/in/cp-gautham-krishna-580450227)
 
-## Tools I've Worked With
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## TOOLS I'VE WORKED WITH ⚙️
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,ts,solidity,cpp,c,python,mongodb,nodejs,prisma,mysql,figma,remix,pytorch,java,fastapi,flask,aws,arduino,bootstrap)](https://skillicons.dev)
 
+
+## STATS ⭐
+![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthking&show_icons=true&theme=radical)
