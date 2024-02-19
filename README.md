@@ -6,7 +6,7 @@
 
 🎓 Third Year (ig) - VIT Chennai
 
-🧑‍💻 Full Stack Web Developer | Blockchain Developer | Web3-dApp Dev | Smart Contracts
+🧑‍💻 Full Stack Software Developer | Web3 Development | Robotics and Machine Learning Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=21&pause=1000&color=4363F7&width=435&lines=Learning+New+Things+Everyday!)](https://git.io/typing-svg)
 
