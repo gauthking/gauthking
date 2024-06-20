@@ -2,7 +2,7 @@
 
 ![Alt Text](dino.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=This+is+my+comfort+zone+LOL!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=This+is+my+CREATIVITY+zone!)](https://git.io/typing-svg)
 
 🎓 Third Year (ig) - VIT Chennai
 
