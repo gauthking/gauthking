@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=This+is+my+CREATIVITY+zone!)](https://git.io/typing-svg)
 
-🎓 Final Year @ VIT Chennai
 
 🧑‍💻 Full Stack Software Developer | Web3 Development | Robotics and Machine Learning Enthusiast
 
